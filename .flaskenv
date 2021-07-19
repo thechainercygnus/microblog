@@ -1,1 +1,2 @@
 FLASKAPP=microblog.py
+FLASK_ENV=development
