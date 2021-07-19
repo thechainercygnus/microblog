@@ -14,7 +14,7 @@ Currently Completed:
 |[Chapter 6](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vi-profile-page-and-avatars)|Profile Page and Avatars|✔|
 |[Chapter 7](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling)|Error Handling|✔|
 |[Chapter 8](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers)|Followers|✔|
-|[Chapter 9](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination)|Pagination|❌|
+|[Chapter 9](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination)|Pagination|⏱|
 |[Chapter 10](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)|Email Support|❌|
 |[Chapter 11](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xi-facelift)|Facelift|❌|
 |[Chapter 12](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xii-dates-and-times)|Dates and Times|❌|
