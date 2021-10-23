@@ -18,7 +18,7 @@ Currently Completed:
 |[Chapter 10](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)|Email Support|✔|
 |[Chapter 11](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xi-facelift)|Facelift|✔|
 |[Chapter 12](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xii-dates-and-times)|Dates and Times|✔|
-|[Chapter 13](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)|i18n and l10n|❌|
+|[Chapter 13](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)|i18n and l10n|✔|
 |[Chapter 14](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiv-ajax)|AJAX|❌|
 |[Chapter 15](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)|A Better Application Structure|❌|
 |[Chapter 16](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvi-full-text-search)|Full Text Search|❌|
