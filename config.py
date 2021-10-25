@@ -1,5 +1,8 @@
+from dotenv import load_dotenv
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
+load_dotenv()
+
 
 class Config(object):
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
@@ -14,3 +17,4 @@ class Config(object):
     ADMINS = ['thebrycejenkins@gmail.com']
     POSTS_PER_PAGE = 3
     LANGUAGES = ['en', 'es']
+    MS_TRANSLATOR_KEY = os.environ.get('MS_TRANSLATOR_KEY')
